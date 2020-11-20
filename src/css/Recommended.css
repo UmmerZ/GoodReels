@@ -1,0 +1,13 @@
+.main-section {
+  display: flex;
+  justify-content: center;
+}
+.main-section ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 0px;
+}
+.main-section ul li {
+  margin: 1%;
+}

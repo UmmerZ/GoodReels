@@ -1,0 +1,12 @@
+.signup-form {
+  width: 20em;
+  margin: auto; 
+}
+
+.signup-form .labels {
+  text-align: center;
+}
+
+.signup-form .submitBtn {
+  margin-top: 10px;
+}

@@ -1,0 +1,356 @@
+[
+    {
+        "id": "01",
+        "movieId": "catch",
+        "username": "Adolf", 
+        "rating": "8",
+        "review": "It was very good, I swear."
+    },
+    {
+        "id": "02",
+        "movieId": "catch",
+        "username": "Eboka", 
+        "rating": "7",
+        "review": "I agree with Adolf, it was pretty awesome"
+    },
+    {
+        "id": "03",
+        "movieId": "shawshank",
+        "username": "Eboka", 
+        "rating": "7",
+        "review": "Overrated, depressing"
+    },
+    {
+        "id": "04",
+        "movieId": "ironman",
+        "username": "Hitesh",  
+        "rating": "10",
+        "review": "My favorite Movie"
+    },
+    {
+        "id": "05",
+        "movieId": "catch",
+        "username": "Ummer",  
+        "rating": "10",
+        "review": "Guys, this is absolutely a 10, my favorite movie."
+    },
+    {
+        "id": "06",
+        "movieId": "ironman",
+        "username": "Ummer",  
+        "rating": "1",
+        "review": "Nice."
+    },
+    {
+        "id": "07",
+        "movieId": "coriolanus",
+        "username": "Ummer",  
+        "rating": "1",
+        "review": "How can this movie be good? No one has seen it yet"
+    },
+    {
+        "id": "08",
+        "movieId": "coriolanus",
+        "username": "Ummer",  
+        "rating": "9",
+        "review": "Maybe I was wrong, maybe it will be great."
+    },
+    {
+        "id": "09",
+        "movieId": "thematrix",
+        "username": "Birm",  
+        "rating": "10",
+        "review": "Doesnt feel like released in 1999. I for some odd reason feel like it was realised yesterday. All time favorite ."
+    },
+    {
+        "id": "095",
+        "movieId": "thematrix",
+        "username": "Eboka",  
+        "rating": "9",
+        "review": "Totally awesome"
+    },
+    {
+        "id": "10",
+        "movieId": "reddawn",
+        "username": "Anonymous",  
+        "rating": "1",
+        "review": "Idk what to say I just remember I passed out mid movie and woke up besides a pile of garbage.Till this day I am trying to figure out what happened that moment, wish I could remember so rating it below 1 ."
+    },
+    {
+        "id": "11",
+        "movieId": "thebanker",
+        "username": "fatReigns",  
+        "rating": "8",
+        "review": " this movie changed me forever recommended it to my friend hopefully it doesnt change her too. Cant afford losing a friend, fingers crossed! ."
+    },
+    {
+        "id": "12",
+        "movieId": "savingprivateryan",
+        "username": "Birm",  
+        "rating": "9",
+        "review": " Its a all time classic and Tom Hanks at its best. Higly recommended "
+    },
+    {
+        "id": "14",
+        "movieId": "paycheck",
+        "username": "Adolph",  
+        "rating": "8",
+        "review": " Loved it wanna watch it agian"
+    },
+    {
+        "id": "15",
+        "movieId": "paycheck",
+        "username": "longhornguy",  
+        "rating": "6",
+        "review": "Good movie but I cudnt keep for the entire movie need to watch it agian"
+    },
+    {
+        "id": "16",
+        "movieId": "paycheck",
+        "username": "Eboka",  
+        "rating": "8.5",
+        "review": "Plot was so refreshing and action was so awesome."
+    },
+    {
+        "id": "17",
+        "movieId": "paycheck",
+        "username": "Hitesh",  
+        "rating": "8",
+        "review": "My wife recommended it. I had to watch as I obvously no choice but on contrary turned out to be one of the best couple of hours I had."
+    },
+    {
+        "id": "18",
+        "movieId": "savingprivateryan",
+        "username": "Adolph",  
+        "rating": "9",
+        "review": " I am normally not a big fan of war movies but its definetly is a worth watching masterpeice "
+    },
+    {
+        "id": "19",
+        "movieId": "savingprivateryan",
+        "username": "CoolGirl_007",  
+        "rating": "9",
+        "review": " OMG! Matt Damon so young and hot in this movie, I have always seen him as not young not old kind of guy in most of his movies. xoxoxo "
+    },
+    {
+        "id": "20",
+        "movieId": "mrsmith",
+        "username": "Hitesh",  
+        "rating": "9",
+        "review": "I never thought James Cameroon will ever work on a plot like this but turns out he is king of almost everything he does."
+    },
+    {
+        "id": "21",
+        "movieId": "mrsmith",
+        "username": "Ummer",  
+        "rating": "10",
+        "review": "Watched it so many times cant even remember. Days when movies had something new everytime. Nowadays movies start with levitation and ends with resurrection. Watch it IF havent."
+    },
+    {
+        "id": "22",
+        "movieId": "mrsmith",
+        "username": "Adolph",  
+        "rating": "8",
+        "review": "Action with so much sick comedy. Miss movies like these now"
+    },
+    {
+        "id": "23",
+        "movieId": "click",
+        "username": "Adolph",  
+        "rating": "6",
+        "review": "I am not a big fan of Adam Sandler but I must say I could be now."
+    },
+    {
+        "id": "24",
+        "movieId": "click",
+        "username": "longhorn_guy",  
+        "rating": "9",
+        "review": "Kate beckinsale is my new crush now. Movie is so awesome almost got into tears unknowingly. "
+    },
+    {
+        "id": "25",
+        "movieId": "click",
+        "username": "Mike-Dane",  
+        "rating": "10",
+        "review": "I am big marvel fan doesnt like anything else but I must say man this moive is great "
+    },
+    {
+        "id": "26",
+        "movieId": "click",
+        "username": "longhorn_guy",  
+        "rating": "9",
+        "review": "Kate beckinsale is my new crush now. Movie is so awesome almost got into tears unknowingly. "
+    },
+    {
+        "id": "27",
+        "movieId": "mrsmith",
+        "username": "Robert Dyawne Jr.",  
+        "rating": "9",
+        "review": "I do agree with Adolph. Even if I have played role of Iron man almost all my life I wish I was casted in it instead of brad pitt"
+    },
+    {
+        "id": "28",
+        "movieId": "sourcecode",
+        "username": "Birm",  
+        "rating": "8",
+        "review": "I have never seen anything like this before. WOW I mean WOW"
+    },
+    {
+        "id": "29",
+        "movieId": "sourcecode",
+        "username": "Eboka",  
+        "rating": "9",
+        "review": "I for a good amount of time there is a network issue  or hardware malfunation as everthing was repeating But oh What a movie "
+    },
+    {
+        "id": "30",
+        "movieId": "sourcecode",
+        "username": "Eboka",  
+        "rating": "2",
+        "review": "didnt quite get it I slept halfway"
+    },
+    {
+        "id": "31",
+        "movieId": "sourcecode",
+        "username": "James Cameroon",  
+        "rating": "8",
+        "review": "I heard about this website from my friend I thought checking it out. Saw this movie here I am big fan of this script I am working on a script like this"
+    },
+    {
+        "id": "32",
+        "movieId": "13hours",
+        "username": "Ummer",  
+        "rating": "7",
+        "review": "always fan of war movies its ok could have been better"
+    },
+    {
+        "id": "33",
+        "movieId": "13hours",
+        "username": "Hitesh",  
+        "rating": "5",
+        "review": "I hate war movies I really like the tltle so watched it. I still hate them"
+    },
+    {
+        "id": "34",
+        "movieId": "13hours",
+        "username": "Anonymous",  
+        "rating": "6",
+        "review": "typical American propaganda plot I will have to do some reaseach now if the plot was real"
+    },
+    {
+        "id": "35",
+        "movieId": "zohan",
+        "username": "Eboka",  
+        "rating": "8",
+        "review": "Adam Sandler is amazing I laughed throught the movie"
+    },
+    {
+        "id": "36",
+        "movieId": "zohan",
+        "username": "Adolph",  
+        "rating": "9",
+        "review": "So funny"
+    },
+    {
+        "id": "37",
+        "movieId": "zohan",
+        "username": "Hitesh",  
+        "rating": "10",
+        "review": "I must say Adam Sandler is very underrated he deserves oscar for this role atleast"
+    },
+    {
+        "id": "38",
+        "movieId": "truelies",
+        "username": "Adolph",  
+        "rating": "10",
+        "review": "I so like the end Harrier scene didnt know fighters can hover over. 10/10"
+    },
+    {
+        "id": "39",
+        "movieId": "truelies",
+        "username": "Birm",  
+        "rating": "6",
+        "review": "Action is super dope but it scares me at the same time. so 6"
+    },
+    {
+        "id": "40",
+        "movieId": "truelies",
+        "username": "hitesh",  
+        "rating": "3",
+        "review": "Too much action I am not really into action but for someone who likes action its a must watach."
+    },
+    {
+        "id": "41",
+        "movieId": "tabureau",
+        "username": "Lonelydude",  
+        "rating": "10",
+        "review": "sometimes fiction seems more than real It was one of those moments while watching this movie"
+    },
+    {
+        "id": "42",
+        "movieId": "tabureau",
+        "username": "Sama_blake",  
+        "rating": "8",
+        "review": "I think I kinda believe such bureau does exist after watching this movie"
+    },
+    {
+        "id": "43",
+        "movieId": "tabureau",
+        "username": "Birm",  
+        "rating": "9",
+        "review": "my kinda movie. I have watched it over 10 times so far"
+    },
+    {
+        "id": "44",
+        "movieId": "tabureau",
+        "username": "Adolph",  
+        "rating": "8",
+        "review": "Matt Damon never disappoints"
+    },
+    {
+        "id": "45",
+        "movieId": "enolaholmes",
+        "username": "Ummer",  
+        "rating": "3",
+        "review": "Hated it. Waste of time Idk where netflix is heading"
+    },
+    {
+        "id": "46",
+        "movieId": "enolaholmes",
+        "username": "Birm",  
+        "rating": "8",
+        "review": "Favorite 2020 movie"
+    },
+    {
+        "id": "47",
+        "movieId": "enolaholmes",
+        "username": "Eboka",  
+        "rating": "1",
+        "review": "I just had few hours to kill before leaving for my international business meeting in japan. God knows how meeting will go ?"
+    },
+    {
+        "id": "48",
+        "movieId": "gladiator",
+        "username": "Eboka",  
+        "rating": "9",
+        "review": "I am sure if I was born around this time I will be a gladitor"
+    },
+    {
+        "id": "49",
+        "movieId": "gladiator",
+        "username": "Adolph",  
+        "rating": "9",
+        "review": "there cant be any better movie on gladiators"
+    },
+    {
+        "id": "50",
+        "movieId": "gladiator",
+        "username": "Adolph",  
+        "rating": "3",
+        "review": "Too much blood shown I dont like it. Action with blood big no no!!!!"
+    }
+
+
+
+
+]

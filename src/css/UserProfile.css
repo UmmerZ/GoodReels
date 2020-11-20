@@ -1,0 +1,147 @@
+.profile-form > * {
+  display: block;
+  text-align: center;
+  margin: auto;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 200px;
+  margin: 20px auto -25px auto;
+}
+
+.input-divs,.p-buttons {
+  width: 20em;
+}
+
+.labels {
+  display: block;
+  margin: 15px auto 0px;
+  background-color: #504a4a;
+  width: 100%;
+  color: #ffffff;
+  padding: 3px;
+  box-sizing: border-box;
+  border-radius: 4px 4px 0px 0px;
+}
+
+.inputs {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin: auto;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 0px 0px 4px 4px;
+}
+#userBio {
+  border-radius: 0 0 5px 5px;
+  width: 100%;
+  box-sizing: border-box;
+  resize: vertical;
+}
+.upload-img {
+  display: none;
+}
+
+.img-label {
+  cursor: pointer;
+  background-color: #504a4a;
+  border-style: solid;
+  color: #ffffff;
+  padding: 3px 10px;
+}
+.upload-img:disabled+.img-label {
+  background-color:  #837a7a;
+}
+
+.submitBtn {
+  text-align: center;
+  background-color: #504a4a;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+}
+.submitBtn:disabled {
+  background-color: #837a7a;
+}
+
+
+
+
+@media screen and (min-width: 800px) {
+.input-divs,.p-buttons {
+  width: 25em;
+}
+}
+
+.p-reviews-section {
+  margin-top: 10px;
+  color: #2c2e33;
+  width: 100%;
+}
+
+#review-list {
+  padding: 0px;
+}
+.p-reviews-section h2 {
+  text-align: center;
+  margin: 5px;
+}
+
+.p-reviews-section #review-list li {
+  display: flex;
+  padding: 1%;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.p-review-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 1%;
+  width: 100%;
+}
+
+.p-review-info > * {
+  padding: 5px;
+}
+
+.delete-buttons {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.delete-buttons button {
+  border: solid;
+  background-color: #504a4a;
+  color: #ffffff;
+  padding: 7px;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: block;
+  height: 40px;
+  width: 60px;
+}
+.delete-buttons button:disabled{
+  background-color: #837a7a;
+}
+
+.delete-buttons button a:hover {
+  background-color: #E4C150;
+  color: #000000;
+}
+
+.delete-buttons .checkbox {
+  width: 36px;
+  height: 36px;
+  margin-top: 2px;
+  
+
+}

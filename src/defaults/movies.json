@@ -1,0 +1,284 @@
+[
+    
+        {
+            "id": "catch",
+            "title": "Catch Me If You Can",
+            "year": "2002",
+            "genre": "Crime",
+            "image":"catchmeifyoucan.jpg",
+            "synopsis": "Guy prints fake money, on the run the whole time."
+        },
+        {
+            "id": "shawshank",
+            "title": "Shawshank Redemption",
+            "year": "1994",
+            "genre": "Crime",
+            "image": "shawshankredemption.jpg",
+            "synopsis": "Are you gonna stay in prison if you're innocent? Or are you?"
+        },
+        {
+            "id": "ironman",
+            "title": "Iron Man",
+            "year": "2008",
+            "genre": "Action",
+            "image": "ironman.jpg",
+            "synopsis": "Rich guy builds himself an expensive toy."
+        },
+        {
+            "id": "deadpoets",
+            "title": "Dead Poets Society",
+            "year": "1989",
+            "genre": "Comedy",
+            "image": "deadpoetssociety.jpg",
+            "synopsis": "Something about poetry."
+        },
+        {
+            "id": "coriolanus",
+            "title": "Coriolanus",
+            "year": "2011",
+            "genre": "Thriller",
+            "image": "coriolanus.jpg",
+            "synopsis": "Based on the play by prolific playwright William Shakespeare, Coriolanus is one of many adaptations that tell the story of Roman General Coriolanus who fails to win the support of his people and loses the position of Consul. He then allies with his enemy Tullus Aufidius and swears to take revenge on his city."
+        },
+        {
+            "id": "hackshaw",
+            "title": "Hacksaw Ridge",
+            "year": "2016",
+            "genre": "Thriller",
+            "image": "hackshawridge.jpg",
+            "synopsis": "Hackshaw Ridge is a 2016 biographical war film directed by Mel Gibson and written by Andrew Knight and Robert Schenkkan, based on the 2004 documentary The Conscientious Objector. The film focuses on the World War II experiences of Desmond Doss, an American pacifist combat medic who, as a Seventh-day Adventist Christian, refused to carry or use a weapon or firearm of any kind. Doss became the first conscientious objector to be awarded the Medal of Honor, for service above and beyond the call of duty during the Battle of Okinawa. Andrew Garfield stars as Doss, with Sam Worthington, Luke Bracey, Teresa Palmer, Hugo Weaving, Rachel Griffiths, and Vince Vaughn in supporting roles."  
+        },
+        {
+            "id": "theateam",
+            "title": "The A-Team",
+            "year": "2010",
+            "genre": "Thriller",
+            "image": "theateam.jpg",
+            "synopsis": "The A-Team is a 2010 American action thriller film[4] based on the 1980s television series of the same name created by Frank Lupo and Stephen J. Cannell. Directed by Joe Carnahan and written by Carnahan, Brian Bloom, and Skip Woods, the film stars Liam Neeson, Bradley Cooper, Quinton Jackson, Sharlto Copley, Jessica Biel, Patrick Wilson and Yul Vazquez. The film tells the story of a Special Forces team who, imprisoned for a crime they did not commit, escapes and sets out to clear their names. The film was produced by Cannell,[5] Ridley Scott, and Tony Scott.[6][7] The film was theatrically released on June 11, 2010 by 20th Century Fox."  
+        },
+        {
+            "id": "pursuit",
+            "title": "The Pursuit of Happiness",
+            "year": "2006",
+            "genre": "Drama",
+            "image": "pofh.jpg",
+            "synopsis": "The Pursuit of Happiness is a 2006 American biographical drama film directed by Gabriele Muccino and starring Will Smith as Chris Gardner, a homeless salesman. Smith's son Jaden Smith co-stars, making his film debut as Gardner's son, Christopher Jr. The screenplay by Steven Conrad is based on the best-selling 2006 memoir of the same name written by Gardner with Quincy Troupe. It is based on Gardner's nearly one-year struggle being homeless.[2] The unusual spelling of the film's title comes from a mural that Gardner sees on the wall outside the daycare facility his son attends."  
+        },
+        {
+            "id": "thematrix",
+            "title": "The Matrix",
+            "year": "1999",
+            "genre": "Sci-Fi",
+            "image": "matrix.jpg",
+            "synopsis": "The Matrix is a 1999 American science fiction action film[3][4] written and directed by the Wachowskis.[a] It stars Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, and Joe Pantoliano and is the first installment in the Matrix franchise. It depicts a dystopian future in which humanity is unknowingly trapped inside a simulated reality, the Matrix, created by intelligent machines to distract humans while using their bodies as an energy source.[5] When computer programmer Thomas Anderson, under the hacker alias (Neo), uncovers the truth, he is drawn into a rebellion against the machines along with other people who have been freed from the Matrix."  
+        },
+        {
+            "id": "gonegirl",
+            "title": "Gone Girl",
+            "year": "2014",
+            "genre": "Thriller",
+            "image": "gonegirl.jpg",
+            "synopsis": "Adapted from the bestseller by Gillian Flynn, Gone Girl tells the story of a man who sees the spotlight turned on him when his wife’s disappearance becomes the focus of an intense media circus."  
+        },
+        {
+            "id": "parasite",
+            "title": "Parasite",
+            "year": "2019",
+            "genre": "Drama",
+            "image": "Parasite.jpg",
+            "synopsis": "This movie shot to the spotlight when it won the Academy award for Best picture in 2020. Parasite tells the story of two families, the Kim family and the Park family, in a tale of greed and class discrimination that threaten the newly formed symbiotic relationship between both families."  
+        },
+        {
+            "id": "joker",
+            "title": "Joker",
+            "year": "2019",
+            "genre": "Crime",
+            "image": "Joker.jpg",
+            "synopsis": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker."  
+        },
+        {
+            "id": "devilallthetime",
+            "title": "The Devil All The Time",
+            "year": "2020",
+            "genre": "Thriller",
+            "image": "devilallthetime.jpg",
+            "synopsis": "Set in rural southern Ohio and West Virginia, The Devil All the Time follows a cast of compelling and bizarre characters from the end of World War II to the 1960s. There's Willard Russell, tormented veteran of the carnage in the South Pacific, who can't save his beautiful wife, Charlotte, from an agonizing death by cancer no matter how much sacrificial blood he pours on his prayerlog. There's Carl and Sandy Henderson, a husband-and-wife team of serial killers, who troll America's highways searching for suitable models to photograph and exterminate. There's the spider-handling preacher Roy and his crippled virtuoso-guitar-playing sidekick, Theodore, running from the law. And caught in the middle of all this is Arvin Eugene Russell, Willard and Charlotte's orphaned son, who grows up to be a good but also violent man in his own right."  
+        },
+        {
+            "id": "thepatriot",
+            "title": "The Patriot",
+            "year": "2000",
+            "genre": "History",
+            "image": "thepatriot.jpg",
+            "synopsis": "It is 1776 in colonial South Carolina. Benjamin Martin, a French-Indian war hero who is haunted by his past, now wants nothing more than to live peacefully on his small plantation, and wants no part of a war with the most powerful nation in the world, Great Britain. Meanwhile, his two eldest sons, Gabriel and Thomas, can't wait to enlist in the newly formed Continental Army. When South Carolina decides to join the rebellion against England, Gabriel immediately signs up to fight...without his father's permission. But when Colonel William Tavington, British dragoon, infamous for his brutal tactics, comes and burns the Martin Plantation to the ground, tragedy strikes. Benjamin quickly finds himself torn between protecting his family, and seeking revenge along with being a part of the birth of a new, young, and ambitious nation."  
+        },
+        {
+            "id": "braveheart",
+            "title": "Braveheart",
+            "year": "1995",
+            "genre": "Thriller",
+            "image": "braveheart.jpg",
+            "synopsis": "William Wallace is a Scottish rebel who leads an uprising against the cruel English ruler Edward the Longshanks, who wishes to inherit the crown of Scotland for himself. When he was a young boy, William Wallace's father and brother, along with many others, lost their lives trying to free Scotland. Once he loses another of his loved ones, William Wallace begins his long quest to make Scotland free once and for all, along with the assistance of Robert the Bruce."  
+        },
+        {
+            "id": "gladiator",
+            "title": "Gladiator",
+            "year": "2000",
+            "genre": "Adventure",
+            "image": "gladiator.jpg",
+            "synopsis": "Maximus is a powerful Roman general, loved by the people and the aging Emperor, Marcus Aurelius. Before his death, the Emperor chooses Maximus to be his heir over his own son, Commodus, and a power struggle leaves Maximus and his family condemned to death. The powerful general is unable to save his family, and his loss of will allows him to get captured and put into the Gladiator games until he dies. The only desire that fuels him now is the chance to rise to the top so that he will be able to look into the eyes of the man who will feel his revenge."  
+        },
+        {
+            "id": "enolaholmes",
+            "title": "Enola Holmes",
+            "year": "2020",
+            "genre": "Adventure",
+            "image": "enola.jpg",
+            "synopsis": "England, 1884 - a world on the brink of change. On the morning of her 16th birthday, Enola Holmes (Millie Bobby Brown) wakes to find that her mother (Helena Bonham Carter) has disappeared, leaving behind an odd assortment of gifts but no apparent clue as to where she's gone or why. After a free-spirited childhood, Enola suddenly finds herself under the care of her brothers Sherlock (Henry Cavill) and Mycroft (Sam Claflin), both set on sending her away to a finishing school for proper young ladies. Refusing to follow their wishes, Enola escapes to search for her mother in London. But when her journey finds her entangled in a mystery surrounding a young runaway Lord (Louis Partridge), Enola becomes a super-sleuth in her own right, outwitting her famous brother as she unravels a conspiracy that threatens to set back the course of history."  
+        },
+        {
+            "id": "thepostcardkillings",
+            "title": "The Postcard Killings",
+            "year": "2020",
+            "genre": "Crime",
+            "image": "postcard.jpg",
+            "synopsis": "New York detective Jacob Kanon has a daughter. A beautiful, talented daughter who is brutally murdered as she honeymoons in blissful ignorance. Soon after, the strangest of postcards arrives on the desk of Swedish art critic Dessie Larsson... Across Europe, couples are being ruthlessly butchered in deliberate acts of violence with no end in sight. The only clues, are picture postcards sent to seemingly random journalists by a narcissistic killer, heralding the next horrific crime. Seen from the joint perspective of both the hunted and the hunters, THE POSTCARD KILLINGS digs deep into the most frightening aspects of the human psyche, drawing Jacob and Dessie into a nightmare from which there might be no escape. As the narrative explodes with operatic ferocity, our protagonists find themselves with an impossible choice to make."  
+        },
+        {
+            "id": "arrival",
+            "title": "Arrival",
+            "year": "2016",
+            "genre": "Sci-fi",
+            "image": "arrival.jpg",
+            "synopsis": "Linguistics professor Louise Banks leads an elite team of investigators when gigantic spaceships touchdown in 12 locations around the world. As nations teeter on the verge of global war, Banks and her crew must race against time to find a way to communicate with the extra-terrestrial visitors. Hoping to unravel the mystery, she takes a chance that could threaten her life and quite possibly all of mankind."  
+        },
+        {
+            "id": "exmachina",
+            "title": "Ex Machina",
+            "year": "2014",
+            "genre": "Sci-fi",
+            "image": "machina.jpg",
+            "synopsis": "Caleb, a 26-year-old programmer at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl."  
+        },
+        {
+            "id": "annihilation",
+            "title": "Annihilation",
+            "year": "2018",
+            "genre": "Sci-fi",
+            "image": "annihilation.jpg",
+            "synopsis": "A biologist's husband disappears. She puts her name forward for an expedition into an environmental disaster zone, but does not find what she's expecting. The expedition team is made up of the biologist, an anthropologist, a psychologist, a surveyor, and a linguist."  
+        },
+        {
+            "id": "aquietplace",
+            "title": "A Quiet Place",
+            "year": "2018",
+            "genre": "Horror",
+            "image": "quietplace.jpg",
+            "synopsis": "Two parents do what it takes to keep their children safe in a world full of creatures hunting every sound they can hear. Not a sound can be heard from the family hiding in silence, but all it takes is one noise and everything can go wrong."  
+        },
+        {
+            "id": "it",
+            "title": "It",
+            "year": "2017",
+            "genre": "Horror",
+            "image": "it.jpg",
+            "synopsis": "In the Town of Derry, the local kids are disappearing one by one. In a place known as 'The Barrens', a group of seven kids are united by their horrifying and strange encounters with an evil clown and their determination to kill It."  
+        },
+        {
+            "id": "tabureau",
+            "title": "The Adjustment Bureau",
+            "year": "2011",
+            "genre": "Sci-Fi",
+            "image": "t-a-b.jpg",
+            "synopsis": "American science fiction romantic thriller film written and directed by George Nolfi, based on the 1954 Philip K. Dick short story Adjustment Team.[3] Starring Matt Damon, Emily Blunt, Anthony Mackie, John Slattery, and Terence Stamp, the film tells the story of a United States congressman who discovers that what appear to be chance events in his life are controlled by a mysterious, powerful group. After an event not planned by these controllers occurs – a romantic encounter with a dancer – he struggles against their manipulation despite their promise of a great future for him."  
+        },
+        {
+            "id": "thebanker",
+            "title": "The Banker",
+            "year": "2020",
+            "genre": "Drama",
+            "image": "thebanker.jpg",
+            "synopsis": "The Banker is a 2020 American drama film directed, co-written and produced by George Nolfi. The film stars Anthony Mackie, Nicholas Hoult, Nia Long, Jessie T. Usher and Samuel L. Jackson. The story follows Joe Morris (Jackson) and Bernard S. Garrett Sr. (Mackie), two of the first African-American bankers in the United States."  
+        },
+        {
+            "id": "reddawn",
+            "title": "Red Dawn",
+            "year": "2012",
+            "genre": "Action",
+            "image": "reddawn.jpg",
+            "synopsis": "Red Dawn is a 2012 American action film directed by Dan Bradley. The screenplay by Carl Ellsworth and Jeremy Passmorea is a remake of the 1984 film of the same name. The film stars Chris Hemsworth, Josh Peck, Josh Hutcherson, Adrianne Palicki, Isabel Lucas, and Jeffrey Dean Morgan. The film centers on a group of young people who defend their hometown from a North Korean invasion."  
+        },
+        {
+          "id": "goodfellas",
+          "title": "Goodfellas",
+          "year": "1990",
+          "genre": "Crime",
+          "image": "goodfellas.jpg",
+          "synopsis": "Goodfellas (stylized GoodFellas) is a 1990 American crime film directed by Martin Scorsese, produced by Irwin Winkler and distributed by Warner Bros. It is an adaptation of the 1985 non-fiction book Wiseguy by Nicholas Pileggi, who co-wrote the screenplay with Scorsese. The film stars Robert De Niro, Ray Liotta, Joe Pesci, Lorraine Bracco and Paul Sorvino. It narrates the rise and fall of mob associate Henry Hill and his friends and family from 1955 to 1980."  
+        },
+        {
+          "id": "truelies",
+          "title": "True Lies",
+          "year": "1994",
+          "genre": "Action/Comedy",
+          "image": "truelies.jpg",
+          "synopsis": "True Lies is a 1994 American action comedy film written and directed by James Cameron. It was executive produced by Lawrence Kasanoff and stars Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold, Art Malik, Tia Carrere, Bill Paxton, Eliza Dushku, Grant Heslov and Charlton Heston. It is based on the 1991 French comedy film La Totale![4] The film follows U.S. government agent Harry Tasker (Schwarzenegger), who struggles to balance his life as a spy with his familial duties"  
+        },
+        {
+            "id": "13hours",
+            "title": "13 Hours",
+            "year": "2016",
+            "genre": "Action",
+            "image": "13hrs.jpg",
+            "synopsis": "13 Hours: The Secret Soldiers of Benghazi (also known simply as 13 Hours) is a 2016 American action thriller film[3][4][5] directed and produced by Michael Bay and written by Chuck Hogan, based on Mitchell Zuckoff's 2014 book of the same name. The film follows six members of Annex Security Team who fought to defend the American diplomatic compound in Benghazi, Libya after waves of attacks by militants on September 11, 2012. The film stars James Badge Dale, John Krasinski, and Max Martini, with supporting roles by Toby Stephens, Dominic Fumusa, Pablo Schreiber, Alexia Barlier, David Denman, and David Costabile."  
+        },
+        {
+           "id": "sourcecode",
+           "title": "Source Code",
+           "year": "2011",
+           "genre": "Sci-Fi/Thriller",
+           "image": "sc.jpg",
+           "synopsis": "Source Code is a 2011 American science fiction action thriller film[4][5] directed by Duncan Jones and written by Ben Ripley. It stars Jake Gyllenhaal as a U.S. Army captain who is sent into a computed reality to find a bomber. Michelle Monaghan, Vera Farmiga, and Jeffrey Wright play supporting roles. The film had its world premiere on March 11, 2011 at South by Southwest[6] and was released by Summit Entertainment on April 1, 2011 in North America and Europe."  
+        },
+        {
+           "id": "paycheck",
+           "title": "Paycheck",
+           "year": "2003",
+           "genre": "Sci-Fi/Thriller",
+           "image": "pay.jpg",
+           "synopsis": "Paycheck is a 2003 American science fiction action film based on the 1953 short story of the same name by science fiction writer Philip K. Dick.In the near future, Michael Jennings is a reverse engineer; he analyzes his clients' competitors' technology and recreates it with improvements. To protect his clients' intellectual property and himself, Jennings undergoes memory wipe to remove knowledge of his engineering with aid of his friend Shorty."  
+        },
+        {
+           "id": "mrsmith",
+           "title": "Mr. & Mrs. Smith",
+           "year": "2005",
+           "genre": "Action/Comedy",
+           "image": "mrsmith.jpg",
+           "synopsis": "Mr. & Mrs. Smith is a 2005 American action comedy film[1] directed by Doug Liman and written by Simon Kinberg. The film stars Brad Pitt and Angelina Jolie as a bored upper middle class married couple surprised to learn that they are assassins belonging to competing agencies, and that they have been assigned to kill each other."  
+        },
+        {
+           "id": "savingprivateryan",
+           "title": "Saving Private Ryan",
+           "year": "1998",
+           "genre": "Action/War",
+           "image": "spr.jpg",
+           "synopsis": "Captain John Miller (Tom Hanks) takes his men behind enemy lines to find Private James Ryan, whose three brothers have been killed in combat. Surrounded by the brutal realties of war, while searching for Ryan, each man embarks upon a personal journey and discovers their own strength to triumph over an uncertain future with honor, decency and courage."  
+        },
+        {
+           "id": "click",
+           "title": "Click",
+           "year": "2006",
+           "genre": "Comedy/Drama",
+           "image": "click.jpg",
+           "synopsis": "Click is a 2006 American fantasy comedy-drama film[3] directed by Frank Coraci, written by Steve Koren and Mark O'Keefe, and produced by Adam Sandler, who also stars in the lead role. The film co-stars Kate Beckinsale as his wife Donna and Christopher Walken as Morty, an eccentric stranger. Sandler plays Michael Newman, an overworked architect who neglects his family. When he acquires a magical universal remote from Morty that enables him to fast forward through unpleasant or outright dull parts of his life, he soon learns that those seemingly bad moments that he skips over contained valuable time with his family and important life lessons. Throughout the story, Morty explains how the remote works and issues warnings."  
+        },
+        {
+           "id": "zohan",
+           "title": "You Don't Mess with the Zohan",
+           "year": "2008",
+           "genre": "Comedy/Action",
+           "image": "zohan.jpg",
+           "synopsis": "Click is a 2006 American fantasy comedy-drama film[3] directed by Frank Coraci, written by Steve Koren and Mark O'Keefe, and produced by Adam Sandler, who also stars in the lead role. The film co-stars Kate Beckinsale as his wife Donna and Christopher Walken as Morty, an eccentric stranger. Sandler plays Michael Newman, an overworked architect who neglects his family. When he acquires a magical universal remote from Morty that enables him to fast forward through unpleasant or outright dull parts of his life, he soon learns that those seemingly bad moments that he skips over contained valuable time with his family and important life lessons. Throughout the story, Morty explains how the remote works and issues warnings."  
+        }
+]
+

@@ -1,0 +1,118 @@
+.row1 {
+  width: 100%;
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
+
+.row1 .info > *{
+  margin: 10px 1%;
+}
+.row1 .info h2 {
+  font-size: 1.3em;
+  font-weight: 700;
+  font-family: 'Montserrat', sans-serif;
+  width: auto;
+}
+
+.row1 img {
+  width: 40%;
+  border-radius: 5px;
+  margin: 1%;
+  border: solid 1px;
+  border-color: #00000033;
+}
+
+div.info {
+  width: 100%;
+}
+
+
+
+/* Row Two */
+.synopsis {
+  margin: 2%;
+}
+
+.synopsis h2, .reviews-section h2 {
+  text-align: center;
+  font-weight: 600;
+  font-size: 1.2em;
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Row Three */
+.reviews-section li {
+  padding: 5px;
+}
+
+.reviews-section {
+  padding: 1%;
+}
+
+
+/* Row Four */
+
+.add-review-section {
+  margin-top: 10px;
+}
+.add-review-section form label {
+  background-color: #504a4a;
+  width: 100%;
+  color: #ffffff;
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: center;
+  border-top-left-radius: 5px;
+}
+
+.inputs-section {
+  display: flex;
+  width: 100%;
+  border-radius: 5px 5px 0p 0px;
+}
+
+.add-review {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.add-review textarea {
+  height: 100px;
+  border-radius: 0px 0px 0px 5px;
+  resize: none;
+}
+
+.add-rating {
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+}
+
+.add-rating select {
+  height: 100px;
+  border-radius: 0px 0px 5px 0px;
+  text-align: center;
+  font-weight: 700;
+  text-indent: 25%;
+}
+
+
+div.add-rating label{
+  border-top-left-radius: 0px;
+  border-top-right-radius: 5px;
+}
+
+.add-review-section form button {
+  background-color: #504a4a;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 4px;
+  box-sizing: border-box;
+  display: block;
+  margin: 10px auto;
+  width: 50%;
+  max-width: 20em;
+}

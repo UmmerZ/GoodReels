@@ -1,0 +1,35 @@
+.movie-card {
+  width: 150px;
+  height: 310px;
+  margin: 0%;
+  display: grid;
+}
+.card-title {
+  width: 100%;
+  height: 60px;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.8em;
+  font-weight: 400;
+}
+
+.card-title p {
+  margin: 0px;
+}
+
+.card-poster {
+  width: 100%;
+}
+.card-poster img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+}
+
+/* Grid End */
+.movie-card p {
+  text-align: left;
+}
